@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the materiall passages of Lieut. Col. Iohn Lilburnes sufferings, as they were represented and proved before the Right Honourable, the House of Peeres, in Parliament assembled, the 13. day of this instant Feb. 1645. Vnto which is annexed their Lordships order, made upon the bearing of the cause.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88263</idno><idno type="EEBO-CITATION">99861315</idno>
+  <idno type="VID">113447</idno>
+  <idno type="EEBO-PROQUEST">2248541622</idno>
+  
+            <idno type="STC">Wing L2191</idno>
+            <idno type="STC">Thomason E324_9</idno>
+            <idno type="STC">ESTC R200611</idno>
+            <idno type="PROQUEST">99861315</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861315e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113447)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E324[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the materiall passages of Lieut. Col. Iohn Lilburnes sufferings, as they were represented and proved before the Right Honourable, the House of Peeres, in Parliament assembled, the 13. day of this instant Feb. 1645. Vnto which is annexed their Lordships order, made upon the bearing of the cause.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>10, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Lilburne by Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>The order of the Lords is dated: 13 Feb. 1645 [i.e. 1646].</note>
+                  <note>Annotation on Thomason copy: "18 feb: 1645".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lilburne, John, 1614?-1657.</term>
+               <term type="corporate_name">England and Wales. --  Court of Star Chamber --  Early works to 1800.</term>
+               <term type="topical_term">Levellers --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="proceedings">
+            <pb facs="tcp:113447:1"/>
+            <head>A true relation of the materiall passages of Lieut. Col. <hi>Iohn Lilburnes</hi> sufferings, as they were represented and proved before the <hi>Right Honourable, the House of Peeres,</hi> in Parliament assembled, the <hi>13</hi> day of this instant <hi>Feb. 1645.</hi> Vnto which is annexed their <hi>Lordships</hi> order, made upon the bearing of the cause.</head>
+            <p>
+               <seg rend="decorInit">M</seg>R. BRADSHAW, and Mr COOKE being assigned for Counsell with the said Mr. <hi>Lilburn,</hi> Mr. BRADSHAW, having succinctly, and so truly opened the case, as if he had been an eye-witnesse of his Clyants sufferings; and acquainted their LORDSHIPS, that the same had re<g ref="char:EOLhyphen"/>ceived a full and solemn hearing before a <hi>Committee</hi> of the honoura<g ref="char:EOLhyphen"/>ble HOUSE of COMMONS: upon whose report it was by that ho<g ref="char:EOLhyphen"/>nourable HOUSE, May 4. 1641. Resolved upon the question, <hi>That the sentence of the Star-Chamber given against Iohn Lilburne, is illegall, and against the liberty of the Subject,</hi> and also, BLOODY, WICKED, CRUEL, BARBAROUS, and TYRANICAL; And likewise further Resolved upon the Question, <hi>that repa<g ref="char:EOLhyphen"/>rations ought to be given to Mr. LILBVRNE, for his imprisonment, sufferings, and losses, susteyned by that illegall sentence;</hi> And now my LORDS, they have transmit<g ref="char:EOLhyphen"/>ted them up to your LORDSHIPS, by whose noble favour and justice we are now be<g ref="char:EOLhyphen"/>fore your HONOURS, to lay open the illegallity of that sentence, and all the procee<g ref="char:EOLhyphen"/>dings thereupon, and <hi>to crave your Lordships justice for reparations, proportionable to our Clyents sufferings.</hi>
+            </p>
+            <p>And in the first place he presented an order, whereby Mr. <hi>Lilburn</hi> was first illegally attached, and committed to the prison of the Gate-house, which was reade in these words.</p>
+            <q>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="order">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Sexto Decemb Anno Dom.</hi> 1637.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>Emandvit Attach. Direct. Wragge, &amp; Flamsteed, pro Corpo<g ref="char:EOLhyphen"/>ris Capt. Iohannis Lilburne de Civitate London, ad immediate admittend. &amp;c. Signat per Lambe, Gwyn, &amp; Aylett.</hi>
+                        </p>
+                        <p>
+                           <hi>Ex directione Baker Cliri. Cappellani Lond.</hi>
+                        </p>
+                        <closer>
+                           <signed>Exam. <hi>Edwardus Latham Reg.</hi>
+                              <lb/>
+                              <hi>Regij. Deput.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The English of which, thus followeth,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <opener>
+                           <dateline>
+                              <date>The sixt of Decemb. 1637.</date>
+                           </dateline>
+                        </opener>
+                        <p>There issued an attachment directed to <hi>Wragge</hi> and <hi>Flamsteed,</hi> for the taking of the body of <hi>John Lilburn,</hi> of the City of <hi>London</hi> and to bring him imediatly, &amp;c. Signed by <hi>Lambe, Gwyne, and Aylett.</hi>
+                        </p>
+                        <p>By direction of the Court, Ba<g ref="char:EOLhyphen"/>ker, Clark chap<g ref="char:EOLhyphen"/>line.</p>
+                        <closer>
+                           <signed>Examined by Edward Latham<lb/> Deputy of the Register.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Which order being read, <hi>Mr.</hi> Bradshaw <hi>observed that the original imprisonment it self, was</hi> illegal, <hi>because they never convented Mr.</hi> Lilburn <hi>to speak for himself, nor ex<g ref="char:EOLhyphen"/>amined him upon any crime, but my</hi> Lords, <hi>it is no marvel that such kind of iniustice as this, proceeded from those</hi> High Commissioners, <hi>because it was their usuall practice to be</hi> attachers judges, jaylors, <hi>and</hi> executioners <hi>themselves, without regard of any legal way of proceedings,</hi> then Mr. BRADSHAW in the second place desired their Lordships, that the sentence against Mr. <hi>Lilburn</hi> in the Star-chamber, might also be read, which was accordingly done. <hi>viz.</hi>
+            </p>
+            <q>
+               <pb n="2" facs="tcp:113447:2"/>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="document">
+                        <p>In Cam. Stel. coram Conc. ibidem 13. Die Febr. Anno Decimo tertio Car. Reg.</p>
+                        <closer>
+                           <signed>Lord <hi>Coventry,</hi> Lord <hi>Keeper.</hi> &amp;c.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Whereas upon information to this Court, the 9th of this instant Febr. by Sir IOHN BANCKS <hi>knight, his Maiesties Aturney general,</hi> that <hi>Iohn Lilburn</hi> and <hi>Iohn Wharton</hi> then present at the Barre, were the 24. of Ian. last, ordered to be examined upon inter<g ref="char:EOLhyphen"/>rogatories, touching their <hi>unlawfull printing, importing, publishing, and disp<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>sing of libelious and seditious bookes,</hi> contrary to the decree of this Court, <hi>which was verified by Affidavitt,</hi> and being brought up to the Office to appear and be examined, <hi>the said Lilburn refused to</hi>
+               <note n="*" place="margin">
+                  <hi>Lilburne</hi> did enter his name, but refusing to give them mo<g ref="char:EOLhyphen"/>ney, they put out his name a<g ref="char:EOLhyphen"/>gain.</note>
+               <hi>appear,</hi> and both of them denyed to take an <hi>oath to make true answer</hi> to the in<g ref="char:EOLhyphen"/>terrogatories, as appeared by the certificate of Mr. GO<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>D Deputy, Clark of this Court. The Court did on that day order, that their appearances should then be recorded, they being present in Court as aforesaid; And that in respect the said delinquents did then again <hi>contemptuously refuse to take their oaths, tendred unto them in open Court,</hi> they should be remanded to the prison of the Fleet, there to re<g ref="char:EOLhyphen"/>main <hi>close prisoners,</hi> untill they conform themselves in obedience to take their oathes, and be examined, and that unlesse they did take their oaths, and yeeld to be examined by munday night then next following, and now last pas<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their LORDSHIPS would on this sitting day, <hi>proceed to a censure against them for their contempts therein.</hi>
+            </p>
+            <p>Now this day the said <hi>Lilburn</hi> and <hi>Wharton,</hi> being again brought unto the <hi>Barre,</hi> his Majesties said Atturney informed this <hi>Honourable Court,</hi> that they still continu<g ref="char:EOLhyphen"/>ed in their former obstinacy, and contemptuously <hi>refused to take their oathes,</hi> to make true answer <hi>to the</hi>
+               <note n="*" place="margin">they never shewed the inter<g ref="char:EOLhyphen"/>rogatories to <hi>Lilburn,</hi> though he desird the sight of them, that so he might know what he did swear to.</note>
+               <hi>interrogatories,</hi> although they had been sent for, and their <hi>oaths offered</hi> to be given unto them, by Mr. <hi>Goad <hi>Deputy Clark</hi>
+               </hi> of this Court; who now certified the same in Court. And therefore his <hi>Maiesties said Atturney</hi> humbly prayed on his <hi>Maie<g ref="char:EOLhyphen"/>sties behalf, that their Lordships would now proceed to censure against the said Delinquents for their great contempts and Disobedience therein.</hi> Whereupon their <hi>Lordships</hi> endeavoured by fair perswasions to draw them to <hi>conformity</hi> and <hi>obedience,</hi> and withall offered, that if yet they would <hi>submit</hi> and take their <hi>oathes,</hi> their <hi>Lordships</hi> would accept thereof, and not proceed to censure a<g ref="char:EOLhyphen"/>gainst them, but such was the <hi>insufferable disobedience and contempt of the said De<g ref="char:EOLhyphen"/>linquents, that they still persisted in their former obstinacy, and wilfully refused to take their oaths:</hi> In respect whereof, the <hi>whole Court did with an unanimous consent, declare &amp; adiudge the said <hi>Lilburn</hi> &amp; <hi>Wharton</hi> guilty of a very high contempt, &amp; offence of dangerous consequence, and evil example, and worthy to undergo a very sharp exemplary</hi> and <hi>severe censure,</hi> which may deterre others from the like presumptuous boldnes, in refusing to <hi>take a legal</hi>
+               <note n="*" place="margin">the sum of which was, you shall swear to make true answer to all things that are asked you, so help you God.</note>
+               <hi>oath,</hi> without which many great &amp; exorbitant offences to the p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLunhyphen"/>judice and danger of his <hi>Maiesty,</hi> his <hi>Kingdoms,</hi> and <hi>loving Subiects</hi> might go away undiscovered, and unpunished, and <hi>therefore their <hi>Lordships</hi> have now <hi>Ordered Adiudged,</hi>
+               </hi> and <hi>Decreed,</hi> That the said <hi>Lilburn,</hi> and <hi>Whar<g ref="char:EOLhyphen"/>ton,</hi> shall be remanded to the Fleet, there to remain untill they conform themselves in obedience to the Orders of this Court, and that they shall pay five hundred pounds a peece for their severall fines to his Majesties use. And before their enlargements out of
+<pb n="3" facs="tcp:113447:2"/>the Fleet, become bound with good sureties for their good behaviour: And to the end that others may be the more deterred from daring to offend in the like kind hereafter, The Court hath further ordered and decreed, That the said Iohn Lilburne shall bee whipt through the street, from the Prison of the Fleet unto the Pillory, to bee erected at such time, and in such place as this Court shall hold fitt and Direct, and that both he and the said <hi>Wharton</hi> shall be both then set in the said Pillory and from thence bee returned to the Fleet, there to remaine according to this Decree.</p>
+            <p>
+               <hi>Iohn Arthur Dep.</hi>
+            </p>
+            <p>At the concluding of which, Mr. Bradshaw, observed that this sentence was <hi>Felo De se,</hi> guilty of its owne death, the ground whereof being because Mr. <hi>Lilburne</hi> refused to take an oath to answer to all such questions as should bee demanded of him, it beeing contrary to the lawes of God, nature, and the Kingdome, for any man to be his own ac<g ref="char:EOLhyphen"/>cuser, the execution of which cruel and bloody sentence was proved by severall witnes<g ref="char:EOLhyphen"/>ses of quality and good repute upon oath at their Lordships barre, the substance of whose testimony was, In the first place, Mr. <hi>Thomas Smith Marchant,</hi> upon his oath declared to their Lordships, that he saw Mr. <hi>Lilburne</hi> tyed to a Cart at Fleet bridge, being stript from the wast upward, and whipt from thence to <hi>Westminster,</hi> and that so neare as hee was able to judge every 2. 3. or 4. steps he had a lash, with a whip, that he was sure had 2. or 3. cords tyed full of knots, and for the number hee did not judge them so few as 500 and he thought that if he should say 500. and 500. hee should not say amisse: but 500. he was confident was the least, and that he saw him set upon the Pillory, &amp;c. the officers being very cruel towards him, or any that spoke unto him.</p>
+            <p>The next witnesse was Mrs; <hi>Mary Dorman,</hi> the substance of whose testimony upon oath was, that she saw Mr <hi>Lilburne</hi> whipt from Fleet bridge to <hi>Westminster,</hi> in such a barbarous, and cruell manner, that she was not able to expresse it, and that shee did be<g ref="char:EOLhyphen"/>leeve both his shoulders were swelled almost as big as a penny loafe, with the bruses of the knotted Cords, and that she did see him set upon the Pillory immediatly, above the space of 2. hours bare head, the sunne shining very hot, and he took occasion to declare the unjustnesse of his sentence, upon which the Warden of the Fleet caused him to bee gagged, above an hour, and did it with such crueltie, that he made his mouth to bleed.</p>
+            <p>Mr. <hi>Higs</hi> his Chirurgion testified upon oath, to this effect, that he did not see his pa<g ref="char:EOLhyphen"/>tient Mr. <hi>Lilburne</hi> whipt, but being desired to performe the office of a Chirurgion to him, he that day drest his backe which was one of the miserablest that ever he did see: for the wheales in his back, made by his cruel whipping, were bigger then Tobacco-pipes, and that he saw him set in the Pillory, and gagged.</p>
+            <p>And Mr <hi>Thomas Haws,</hi> upon oath testified to this effect, that he did see Mr <hi>Lilburn</hi> set upon the Pillory, above (as he judged) the space of 2. hours, the Sun shining very hot, and they would not suffer him to have any cover upon his head, and he taking oc<g ref="char:EOLhyphen"/>casion to speake of the Bishops cruelty towards him, and how unjustly they had caused him to be dealt with, the Warden of the Fleet caused him to be gagged, in such a cruell manner, as if he would have torne his jawes in peeces, in so much that the blood came out of his mouth.</p>
+            <p>In the next place, <hi>A second sentence made in the inner Star-Chamber</hi> was read, which thus followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>At the inner Starr Chamber, <date>the 18. of April, Anno Dom. 1638. present.</date>
+                           </dateline> Lord <hi>Arch Bishop of Canterbury;</hi> Lord <hi>Keeper;</hi> Lord <hi>Treasurer:</hi> &amp;c.</opener>
+                        <p>Whereas <hi>Iohn Lilburne</hi> Prisoner in the Fleet, by Sentence in Star-Chamber, did this
+<pb n="4" facs="tcp:113447:3"/>day suffer Condigne punishment for his severall offences, by <hi>Whipping at a Cart, and standing in the Pillory;</hi> and as then <hi>Lordships</hi> were this day informed during the time that his body was under the said execution, Audaciously and wickedly, did not only utter sundry Scandalous speeches, but likewise scattered divers Coppies of sediti<g ref="char:EOLhyphen"/>ous Books amongst the People, that beheld the said execution, for which very thing, a<g ref="char:EOLhyphen"/>mongst other offences, of like nature, he hath beene Censured in the said Court, by the aforesaid sentence; It is therefore <hi>by their Lordships ordered, that the said <hi>Iohn Lil.</hi> should be laid alone with yrons, on his Hands and Leggs, in the Wards of the Fleet Where the basest and meanest sort of Prisoners are used to be put; And that the War<g ref="char:EOLhyphen"/>den of the Fleet, take especial care to hinder the resort of any</hi> persons whatsoever unto him; <hi>And particularly, that he be not supplyed with money from any friend: And that he take especiall notice of all letters, writings, and Books brought unto him, and seiz and deliver the same unto their Lordships: And take notice from time to time who they be that resort unto the said prison, to visite the said Lilburne, or to speake with him, and informe the Board thereof.</hi> And it was lastly ordered that all persons that shall be hereafter produced to Receive Corporal punishment, according to sentence of that Court, or by order of the Board, shall have their garments searched before they bee brought forth, and neither writing not other thing suffered to be about them; and their hands likewise to be bound, during the time they are under punishment, whereof toge<g ref="char:EOLhyphen"/>ther with the other premisses, the said Warden of the Fleet, is hereby required, to take notice, and to have especial care, that this their Lordships order be accordingly observed.</p>
+                        <closer>
+                           <signed>Examined per Dudly Carleton.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And the execution of this latter sentence in a most <hi>Barbarous and inhumane manner,</hi> was punctually proved by sufficient witnesses: the substance of which thus followeth. viz, <hi>Mr. Higs his Chirurgion</hi> testified, that that night Mr <hi>Lilburne</hi> suffered, he was had back to the Fleet, and he reparing to Dr. <hi>Grant,</hi> to crave his advice, he advised him to <hi>let his patient blood,</hi> to prevent a Fever, and hee accordingly Came the next morning to the <hi>Fleet</hi> to let his patient blood, and <hi>dresse his sores,</hi> but he found him <hi>looked up close in a room,</hi> and was by the Officers of the Fleet denied accesse unto him: whereupon he immediatly went to the <hi>Warden</hi> being then at <hi>Westminster,</hi> who denied him accesse to the said Mr. <hi>Lilburne,</hi> till the afternoone that he came home; which was a great act of Crueltie, and much to the danger of Mr. <hi>Lilburnes health,</hi> and welfare, and the next day they removed him down to the Common Goale, where they laid him in Irons, and severall times <hi>wounded him</hi> to the extreame hazard of his life, and severall times deny<g ref="char:EOLhyphen"/>ed me accesse to him in his extremity.</p>
+            <p>Dr. <hi>Hubbard Iust. of the Peace,</hi> made oath to this effect; that when Mr <hi>Lilburne</hi> was prisoner in the Fleet, he was desired as a <hi>Phisition</hi> to visite him, and going so to do, hee was againe and againe denied accesse to him, but upon much importunity to the <hi>War<g ref="char:EOLhyphen"/>den,</hi> he was admitted to him, whom he found in an extream violent Feaver, lying in <hi>I<g ref="char:EOLhyphen"/>rons upon both hands and leggs,</hi> to the extreame hazard of his life.</p>
+            <p>Mrs. <hi>Mary Dorman</hi> further declared that after Mr <hi>Lilburne</hi> had suffered, shee went often to visit him, who was <hi>laid in yrons,</hi> and his friends denyed acc<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sse to him; and that the officers of the Fleet strongly indeavoured to <hi>starve him:</hi> so that many times his friends were forced to bring his meat to the <hi>poor mans bag,</hi> and give them mony to con<g ref="char:EOLhyphen"/>vey it to him through a hole in a wal betwixt them and him, Mr. <hi>Th Haus</hi> further decla<g ref="char:EOLhyphen"/>red that after Mr. <hi>Lilburne</hi> suffered, he often went to visit him, and <hi>was beate by the Jaylors, and was in danger to have lost his life</hi> for so doing, and that they so strong<g ref="char:EOLhyphen"/>ly laboured to starve Mr. <hi>Lilburne,</hi> that they were forced to convey his dyet to him by
+<pb n="5" facs="tcp:113447:3"/>the poor men that begged at the grate; but the <hi>Jaylors</hi> finding out that Mr. <hi>Lil.</hi> got his diet that way, they dealt so cruelly with the poor men, that Mr. <hi>Lilburn</hi> was deprived of that way of reliefe, and then his friends got the sonne of one <hi>Archer</hi> that was a pri<g ref="char:EOLhyphen"/>soner in the next room to him, for accusing the Deputy of Ireland, for murthering one Esmond, to convay his victuals to him: which was done by stealth through a hole where a board was pul'd up in his floore, when the rest of the prisoners were at the Chappel at service; and my Lords divers times the conveying of his meat to him, cost him and his friends upon the prisoners, &amp;c. more then the meat it selfe. <hi>Robert Ellis</hi> sometime a fellow prisoner with Mr. <hi>Lilburne</hi> in the Fleet upon Oath declared before their Lord<g ref="char:EOLhyphen"/>ships, that the Officers of the Fleet after they brought Mr <hi>Lilburne</hi> into the Common Wards, used him very barbarously and cruely, laying him for a long time in yrons, keep<g ref="char:EOLhyphen"/>ing his friends from him, and his victuals, and severall times had like to have sl<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n and murthered him, and he verily beleeves had effected it, if he had not helpt him; for which they took his bed from him, and put him of the charity, and kept him 5. weeks in a dun<g ref="char:EOLhyphen"/>geon and had like to have murthered him, and afterwards removed him to the Kings bench, that so they might the more easier have their wills of Mr <hi>Lilburne.</hi> &amp;c.</p>
+            <p>Their Lordships being satisfied of the injustice and Illegality of the proceedings, Mr. <hi>Bradshow</hi> said, that hee conceived no mans sufferings in the Kingdome had beene so great as his Clyents were: For a gentleman to be so cruelly tortured and whipt, pil<g ref="char:EOLhyphen"/>lored, gagged, close imprisoned, Ironed, beat and wounded, and that contrary to Law, is a cruelty unheard of, and therefore hoped that for such unparaleld sufferings, and Op<g ref="char:EOLhyphen"/>pressions, The fair hand of their Lordships honourable Justice; would give and reach him forth unparaleld Dammages, and though many of his Judges that did him unju<g ref="char:EOLhyphen"/>stice be dead, yet he hop't the hand of Justice of their honours, joyned with the honora<g ref="char:EOLhyphen"/>ble house of commons wil be so long as to reach their living &amp; surviving estates, and out of them, &amp;c. make him speedy, large and unparaled reparations: For Augmentation whereof, this that followes and much more might have been urged and observed, but that the Councel perceived that at the naked Narration of the Cruel tortures and tor<g ref="char:EOLhyphen"/>ments inflicted upon him, a most noble spirit of justice did run in their Lordships veins: for what heart so hard, but must soften and relent, to heare of a poore Gentleman so cruelly used and abused, much more their Noble Lordships, whose blood being so pure, must needs be more sensible of such unchristian dealings and dishonour offerred to a poore Gentleman then Ignoble spirits can be.</p>
+            <p>The punishments inflicted upon him may be reduced to four heads.</p>
+            <p n="1">1. Imprisonment, whereby a man is buried alive, looses the comfort and benefit of his five sences and is made, <hi>Corp is immobile leges,</hi> the unmoveable subject of the law, or as a dead carkasse, 't is true, that in its self it is the easiest of all corporall punishments: but the continuance of it makes it such a lingring consumption, that it is better to be up<g ref="char:EOLhyphen"/>on the rack an hour, then to be imprisoned a year: as it is better to be once wet to the skin, then to be subiect to a perpetuall dropping, especially for an active spirit: there is no such torment as to deprive him of liberty; for active <hi>Theses</hi> was condemned one<g ref="char:EOLhyphen"/>ly to sit still: there is no end of such a misery, as the heathen persecuting Tyrants said, <hi>Nondum tibi redij in gratiam,</hi> to put a man out of his pain, was alwaies counted a fa<g ref="char:EOLhyphen"/>vour: but Mr. <hi>Lilburnes</hi> imprisonment was aggravated by three steps or gradations.</p>
+            <p n="1">1. A close imprisonment, not the dearest friend to come to him, we do not find that any of the primitive christians were used so by the Tyrants, for then that heavie charge might be answered in the Scripture, I was in prison, and ye visited me not: (extraordi<g ref="char:EOLhyphen"/>nary matters of State and high concernments alwaies excepted, but the chirurgion was
+<pb n="6" facs="tcp:113447:4"/>not permitted, sometimes to come to Mr. <hi>Lilburn</hi> to dresse him, nor the Phisitian when he was in a fever; a cruelty unheard of amongst the Turks: for they are carefull of their slaves in their sicknes, and fatten them, that they may indure their blowes: but it is too probable that those which were Mr. <hi>Lilburnes</hi> malicious enemies, did too much thirst after his blood.</p>
+            <p>The Keepers were ordered to take care that no money be conveyed to him, which ar<g ref="char:EOLhyphen"/>gues that they had a desire to starve him: the Prophet saith, it is better to die by the sword, then famine, which is the greatest of all torments; for all punishments may be undergone by patience, but onely hunger: which the more any man thinkes by patience to overcome, the more violent it is: undoubtedly had it not been for the pitty of some poor resolute fellow prisoners, Mr. Lilburn had been starved to death: Far worse th<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n any of the 4. Roman punishments, which were lapida<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>io, combustio, decollatio, strangu<g ref="char:EOLhyphen"/>latio, stoning, burning, beheading, and strangling; how severely, yet most justly, did the same Judges severall times punish the intent to poison or destroy another man? The going about to murder, nay the giving of the lye, because it is preparatory to murder, by provoking quarrels was censurable in that court, a multo fortiori, much more from the stronger, then in this case used, where there was so much cruelty inflicted, that death might probably have insued; had not God by his extraordinary mercy supported him, in those sad afflictions, those unjust Judges for transgressing not onely the bounds of humanity, but all the rules of their owne ordinary Justice ought to make Mr. Lilburne answerable satisfaction.</p>
+            <p n="3">3. This imprisonment was for about three years, until he petitioned the Parliament, many times the first motions of anger are not in a mans own power, because he would not accuse himself as they desired, they might have in a passion committed him, and the Sun might have gone down upon their wrath; Nay, the moon might have made her per<g ref="char:EOLhyphen"/>agration, or the summer season might have melted their frozen consciences, or the win<g ref="char:EOLhyphen"/>ter cold have allayed the heat of their malice, or the Sun might have made his revoluti<g ref="char:EOLhyphen"/>on, but their malice continued three yeares, and had not he been delivered by the ju<g ref="char:EOLhyphen"/>stice of the Parliament, in probability might have continued for ever.</p>
+            <p n="2">2. Whipping, A most painful and shameful punishment. Flagelations and scourgings being for slaves and incorrigible rogues, and hedge robbers: In undecimo Elizab, one <hi>Cartwright</hi> brought a slave from <hi>Russia,</hi> and would scourge him cruelly, for which he was questioned, and it was resolved, that England was to pure an ayr for slaves to breath in, and it was often resolved in Starchamber, that no Gentleman was to be whipt for any offence whatsoever: It being well known that <hi>John Lilburnes</hi> Ancestors, have been ancient Gentlemen, and that which these Judges could not be ignorant of, espe<g ref="char:EOLhyphen"/>cially the Earl Marshall, who is presumed to know all the ancient Gentry in the King<g ref="char:EOLhyphen"/>dom: but the like whipping was never read of, amongst the <hi>Assirians, Persians, Gre<g ref="char:EOLhyphen"/>cians,</hi> or <hi>Romans,</hi> For</p>
+            <list>
+               <item>1. It was from the Fleet to Westminster (above a mile distance) a great concourse and confluence of people looking upon him, as if he had been some miserable slave.</item>
+               <item>2. He received every two or three steps a blow, 500. stroakes at the least; for one Mr. <hi>Smith</hi> Marchant that went along with him, testified that so far as he was able to judge, he received 500. or 1000 but of the first he was most certain, and this was with a treble corded whip, with at least 20. knots upon it.</item>
+            </list>
+            <p>Amongst the Romans no malefactor had ever above forty stripes, and every stroak stood for three stripes, for the whip was of three thongs, and but one knot at the end
+<pb n="7" facs="tcp:113447:4"/>of every thong, St <note place="margin">Mr. Godwyn, Mofes and Aaron.</note>
+               <hi>Paul</hi> received 39 stripes, which was but thirteen blowes. Not long since in <hi>Orleans</hi> A Priest was sentenced to be whipt for fornication, having abused a poor maid, telling her that their popish St. <hi>Francis</hi> would come and lie with her such a night, at which time he personated and feigned himself to be St. <hi>Francis,</hi> and was ta<g ref="char:EOLhyphen"/>ken in bed with her; and it was earnestly pressed by the Kings Advocates, that he might receive fourteen blowes with a three corded whip, which is constantly used for such ca<g ref="char:EOLhyphen"/>stigations, because it was an abhominable wickednes: but the Judges would not suffer him to have above thirteen blowes, because <hi>ampliandi sunt favores,</hi> favours are to be inlarged, and in doubtful matters it must alwaies be presumed for clemency and gentle<g ref="char:EOLhyphen"/>nes, according to which accompt, Mr. Lilburne received 10000. stripes: for in every blow there was twenty stripes, by reason of the twenty knots, which being multiplied, is 10000, and in every stripe there was shame and pain, compression of the flesh, bru<g ref="char:EOLhyphen"/>sings and effusion of blood.</p>
+            <p n="3">3. The Pilory, a punishment something painfull, but exceeding shamefull, and most terrible to a generous nature, to stand two hours in the open vieu of all men, as if he had been unworthy to tread upon the earth, the sun shining very hot upon him, and not suf<g ref="char:EOLhyphen"/>fered to keep on his hat, and this immediatly after his cruell whipping, that so they might put him to all the torture and pain that they could, argues abundance of wrath and malice.</p>
+            <p>This punishment of standing upon the pilory, was first invented for Mountebancks and cheats, that having gotten upon bancks and formes, to wrong and abuse the people, were exalted in the same kind, to stand conspicuous to the view and open shame of the people, but for a Gentleman to be so served, was never heard of, unlesse by that cruell Court.</p>
+            <p n="4">4. Gagging, an unmanly and barbarous cruelty, to be exercised upon beasts, not m<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, for man differs from brutes, both <hi>ratione, &amp; oratione,</hi> in reason, and speech; A punishment never heard of in any age, cutting out of tongues, and perforration in ca<g ref="char:EOLhyphen"/>ses of blasphemy have been heard of, but never in a matter of such a nature; and this to continue for above an hour, till the blood gusht out of his mouth, as if they would have pluckt his jawes in peeces, and all this for nothing, O insufferable torments!</p>
+            <p>So that by his imprisonment he was made a stock, a dead trunk, or picture of a man, that hath eyes, and sees not, hands, and handles not, &amp;c. by whipping they indeavoured to make him a rogue, or a slave, by the third punishment of the pilory, to make him a cheater, guilty of forgery and perjury, and by gagging, to make him a beast, and so up<g ref="char:EOLhyphen"/>on the whole matter to deprive him of his reasonable soul, such cruelties that were ne<g ref="char:EOLhyphen"/>ver invented but by Tygers and Wolves, in humane shapes, <hi>ferttas Luporum, in huma<g ref="char:EOLhyphen"/>na figura.</hi> But then the persons that were so cruel and tyranicall aggravates the offence.</p>
+            <p>This cruelty was commanded to bee execu<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by an eminent Court of Justice, pro<g ref="char:EOLhyphen"/>fessing Christianity <hi>pessima est injustitia que fit sub colore justitie:</hi> tis the greatest in<g ref="char:EOLhyphen"/>justice to oppresse and doe injurie, under a pretence of justice, how often was it resol<g ref="char:EOLhyphen"/>ved in that Court, that for a Justice of Peace or Constable to commit a riot, was Tenne times more severely punishable then in a common person, because it is to use or rather abuse that sword of Authority, to commit or countenance an unlawfull action, which was ordained and put into their hands to suppresse it.</p>
+            <p n="2">2. The Eminency of the persons augments the offence, <hi>qualitas persone auget pec<g ref="char:EOLhyphen"/>catum;</hi> for a Gentleman to act against the rule of the Law and Gentility, is more re<g ref="char:EOLhyphen"/>prehensible then in vulgar persons; It was called the <hi>Court of Star-Chamber,</hi> from the
+<pb n="8" facs="tcp:113447:5"/>eminency of the persons, which were Judges: Stars of the greater magnitudes, as being the highest Court of ordinary Justice; but Mr. <hi>Lilburnes Judges</hi> instead of putting on the garment of Justice, were cloathed from head to Feet, and their conscience oyled and moistned with cruelty and Injustice, mixed with the most poysoned malice that e<g ref="char:EOLhyphen"/>ver entred into the hearts of any Judges.</p>
+            <p>And though some of them be dead, yet Iustice lives though the party bee dead, what<g ref="char:EOLhyphen"/>soever bec<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes of them, their estates ought to make satisfaction according to their own rules, <hi>qni non luet incorpore salvit in bursa,</hi> he that suffers not in his body, must suf<g ref="char:EOLhyphen"/>fer in his purse.</p>
+            <p>A principall actor in this bloody Tragedy, was the Lord Keeper Coventry, not lesse eminent in cruelty then in place, Iudge of the highest seate of mercy, the Chancery, which abated the edge of the Law, when it is too keen; For the chiefe Judge of mercy to degenerate into a savage Cruelty, not herad of amongst the Barbarians, how hainous is it? Not to speake any thing of the decapitated Arch-Bishop, that monster of cruelty and subtlety, whose estate we feare is dead with him, and therefore little can bee expe<g ref="char:EOLhyphen"/>cted from it.</p>
+            <p>The Bishop of <hi>London</hi> then Lord Treasurer, was a principal sentencer of Mr. <hi>Lil<g ref="char:EOLhyphen"/>burne;</hi> by their own Cannons; no Bishop ought to have a hand in blood, because they pretend to be mild Shepheards, But Cruelty was their Genius.</p>
+            <p n="3">3. The <hi>Earl of Arundel</hi> was of an inbittered spirit against Mr. <hi>Lilburne,</hi> nothing but Corporall punishment would alav the heat of his malice, who being <hi>Earl Marshal,</hi> could not be ignorant that <hi>Iohn Lilburne</hi> was a Gentleman, for him that by his place was to protect all Gentlemen from Injuries, and scornes to bee active in the inflicting such Corporall Ignominous cruel punishments upon a Gentleman, Is a transcendent transgression against the Lawes of state and Honor. It hath beene Censurable in that Court, to speake Contemptious words of a Gentleman, and how often had hee ordered satisfaction, for saying such a one is no Gentleman, and yet the same Court and p<gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sons not on<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly to say a Gentleman Is a Rogue, but so to use him as Mr. <hi>Lilburne</hi> was, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the g<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eatest scandall to the publick Justice of the Kingdome, that hath been heard of.</p>
+            <p n="4">4, The Judges Assistants that are called the <hi>Fathers of the Law,</hi> and are said to car<g ref="char:EOLhyphen"/>ry the Law in their breasts, for them to begin and promote such an unjust and illegall sentence, for them that are set as Centinels to watch over and preserve the peoples liber<g ref="char:EOLhyphen"/>ties, to betray a poore Gentleman into the hands of mercilesse men, was an offence of an exceeding high nature, for had they declared the Illegallity of those proceedings, and protested against it, as by vertue of their places (in duty) they ought to have done, It might have prevented the sentence. If the proceedings had beene regular by infor<g ref="char:EOLhyphen"/>mations, and examinations, or <hi>ore tenus</hi> as it was not, unlesse there had beene some di<g ref="char:EOLhyphen"/>rect proofe or speaking Circumstance or very probable presumption, that Mr. <hi>Lilburne</hi> had been Guilty of some high crime, it had been a grievous thing in them to have as<g ref="char:EOLhyphen"/>sisted in so cruel punishments: but when the pretence was no other, but concerning some of Docter <hi>Bastwicks,</hi> Mr <hi>Burtons,</hi> or Mr <hi>Prynns</hi> Bookes, which they knew could not be any breach of the peace, and that in the Star chamber, where there was no information, as in Mr. <hi>Lilburnes</hi> case to administer an oath was all one, with the High Commis<g ref="char:EOLhyphen"/>sion and directly contrary to the petition of right, in 3. <hi>Car.</hi> and Justice <hi>Jones</hi> had no reason for it flicting the Corporall punishment.</p>
+            <p>But because Mr. <hi>Lilburn</hi> was a young man, therefore it was fit he should be punished, is not this to turn Justice into Wormwood, such Judges have ever been the most danger<g ref="char:EOLhyphen"/>ous pests to a state and Kingdome, and in former times for lesse offence, most severely
+<pb n="9" facs="tcp:113447:5"/>punisht in their persons and estates. The Lord <hi>Cottington</hi> thirsted exceedingly after the blood of this poore Gentleman, and the High Commissioners had their hands as deep as any of the rest, in regard that by their warrant he was first committed; the most unjust and Tyrannicall that ever was heard of, to command a poore Gentleman to bee sent to prison, without conventing him before them, or asking him whether hee was guilty of any misdemeanor; a meer usurpation of authority, taking the Sword of Iu<g ref="char:EOLhyphen"/>stice into their own hands, not Caring to destroy a poore Gentleman, so as they might Curry favour with the Prelates their Grand Patrons, those high Commissioners making themselves Judges, Iaylors, and executioners, and what not, to destroy the innocent.</p>
+            <p>It is considerable what punishment the Iaylors and executioners of this cruel sen<g ref="char:EOLhyphen"/>tence have deserved; for however if a writ be directed to a Sheriffe Commanding him to take the body of one who is Peere of the Realme, or a priviledged person, the Officer is excused by his warrant, yet when punishments are clearly against the Law of God, na<g ref="char:EOLhyphen"/>ture, and Nations, which prohibit all such cruelties and inhumanities: To make them bleed for the blood of Mr. <hi>Lilburne,</hi> would bee an honourable peece of Justice, and a President of much safety to the subjects in after times, and officers would not dare to bee so unmercifully Cruel; as the Sheriffs smarted for the Ship-mony, though they had processe from the Exchequer.</p>
+            <p>Mr. <hi>Lilburnes</hi> sufferings are beyond expressions, and no honest heart but is feelingly sensible of every blow that was given him; In his imprisonment, Whipping, Pillory, Gagging, Beatings, Hungerbitings, and the Yrons laid upon him, Every true hearted Englishman, that stands for the Laws and Liberties of the Subject, was so used, and abu<g ref="char:EOLhyphen"/>sed for it, might have beene any such mans case, aswell as his. His estate quite exhau<g ref="char:EOLhyphen"/>sted by their cruelties, his Trade lost whereby he gained his livelyhood, beeing before that time in a hopefull way of a marchant, and well known to bee very industrous in his calling; A man Active for the publique, and by his Merits hath procured the title of <hi>Lievetenant Colonel,</hi> in the present wars; What dammages the Parliament will be pleased to adjudge and order him, hee humbly submits to their great wisedomes and Honourable Justice: Certainly not any of them would have suffered so much for ten Thousand pounds.</p>
+            <p>It is the Lords great mercy that he is yet alive, having conflicted with, and gone though such a sea of Punishments and miseries: True it is, that in point of reparations, there is no proportion between monies and such corporall punishments, to a generous spirit: yet as there was never more indignity and a greater dishonour to the justice of the Kingdom, then by this wicked sentence, and the cruel execution thereof, thereby proclaiming it to all the world that an English Gentleman must be made a slave to sa<g ref="char:EOLhyphen"/>tisfie the malicious and verulant humors of a tyranicall Court of Iustice.</p>
+            <p>So it will be a very great honour and reparation to the publique justice of this Land, to give and adjudge Mr Lilburne, exemplary and proportionable dammages to be le<g ref="char:EOLhyphen"/>vied out of the estates of his unjust and malicious Judges, through whose injustice he not onely suffered such cruelties for three yeares, that not one of them would have suffered the like, nor received one of his stripes for many thousands, but lost his trade and livelihood.</p>
+            <p>The judiciall law was blood for blood, an eye for an eye, tooth for tooth, &amp;c. <hi>Da<g ref="char:EOLhyphen"/>niels</hi> accusers were cast into the Den of Lyons, with their wives and children, though <hi>Daniel</hi> had no hurt, by a miracle of mercy, by the equity and morality whereof, Mr. <hi>Lilburne</hi> ought to have good and proportionable reparation out of the estates of his un<g ref="char:EOLhyphen"/>just judges and tormentors, who sought for his blood: but that God preserved him by
+<pb n="10" facs="tcp:113447:6"/>his <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>trordinary love and favour: If the Reader desire to know what necessity there is in exposing this to publike view, It is answered, that all men may be hereby incoura<g ref="char:EOLhyphen"/>ged to praise God, and return thanks to the Parliament for suppressing that tyranicall Court of Star-chamber, which was worse then that of <hi>Pluto</hi> or <hi>Rodomanthus,</hi> for those punishments are supposed to be just. The <hi>Romans</hi> will give twenty pounds for a model or picture of <hi>Nero, Heliogabalus, Caligula,</hi> or those monsters of Mankind, that so they may take occasion to praise God that they live not in the times of such cruell tyrants.</p>
+            <p>Secondly, that all drooping spirits may chear up and be incouraged, that justice will run down like a mighty stream, when it shall be executed upon the greatest offenders: as now there is good hopes that Mr. <hi>Lilburne</hi> shall by ordinance of Parliament have speedily good dammages, answerable to his great sufferings, ordered and adjudged him to be raised out of the estates of his unjust judges, that may be paid unto him without further expence, who hath been at such extraordinary charges about the same, that so his reparation may be not onely just, but seasonable, by which he shall be obliged to ven<g ref="char:EOLhyphen"/>ter his life, and all that is dear to him as formerly he hath done (to the incourage<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of others) and for his honourable Judges in Parliament assembled.</p>
+            <p>The aforementioned order thus followeth,</p>
+            <div type="Parliamentary_order">
+               <pb facs="tcp:113447:6"/>
+               <opener>
+                  <dateline>
+                     <date>Die Veneris, 13. Feb. 1645.</date>
+                  </dateline>
+               </opener>
+               <p>Whereas the cause of <hi>Iohn Lilburne Gent.</hi> came this day to a hearing at the Barre by his Counsell, being transmitted from the House of Commons, concerning a sentence pronounced against him in the Star-cham<g ref="char:EOLhyphen"/>ber 13. <hi>Febr. anno</hi> 13. <hi>Car. Reg.</hi> and after an examina<g ref="char:EOLhyphen"/>tion of the whole proceedings, and a due considerati<g ref="char:EOLhyphen"/>on of the said sentence, It is this day adjudged, ordered, and determined by the <hi>Lords in Parliament assembled;</hi> That the said sentence, and all proceedings thereupon, shall forthwith be for ever totally vacuated, oblitera<g ref="char:EOLhyphen"/>ted, and taken off the file in all Courts where they are yet remaining, as illegall, and most unjust, against the <hi>liberty</hi> of the <hi>Subiect,</hi> and <hi>law</hi> of the <hi>land,</hi> and <hi>Magna Charta,</hi> and unfit to continue upon Record. And that the said <hi>Lilburne</hi> shall be fore ever absolutely freed, and totally discharged from the said sentence, and all pro<g ref="char:EOLhyphen"/>ceedings thereupon, as fully and amply, as though ne<g ref="char:EOLhyphen"/>ver any such thing had been. And that all estreat and proces in the Court of Exchequer for levying of any fine, (if any such be) shall be wholy cancelled and made void, Any thing to the contrary in any wise not<g ref="char:EOLhyphen"/>withstanding.</p>
+               <closer>
+                  <signed>Ioh. Browne Cleric Parliamentor.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
